@@ -82,7 +82,7 @@ YOLOv8 model has been used here because it is very fast to do Real-time Object D
 
 ### 📊 **Exploratory Data Analysis Results**
 
-![Confusion Matrix](results/results.png)
+![Confusion Matrix](results/confusionMatrix.png)
 ![Results](results/results.png)
 ![Train Batch](results/trainbatch.jpeg)
 ![Validation Batch](results/validation.jpeg)
