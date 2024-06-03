@@ -84,8 +84,8 @@ YOLOv8 model has been used here because it is very fast to do Real-time Object D
 
 ![Confusion Matrix](results/confusionMatrix.png)
 ![Results](results/results.png)
-![Train Batch](results/trainbatch.jpeg)
-![Validation Batch](results/validation.jpeg)
+![Train Batch](results/trainbatch.png)
+![Validation Batch](results/validation.png)
 
 ### 📈 **Performance of the Models based on the Accuracy Scores**
 
