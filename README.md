@@ -2,7 +2,7 @@
 
 ### 🎯 **Goal**
 
-To do Pothole Detection Using YOLO
+To do Pothole Detection Using YOLOsgi
 
 ### 🧵 **Dataset**
 
